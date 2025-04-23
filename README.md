@@ -20,3 +20,5 @@ Aquí dominarás los bucles (`for`, `while`, `do...while`) y cómo usarlos para 
 
 
 💡 **¡A practicar se aprende! Si tienes dudas, dime.** 😊  
+
+Omar Mattos
